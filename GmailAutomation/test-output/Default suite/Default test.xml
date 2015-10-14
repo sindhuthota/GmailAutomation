@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="KPISYS" name="com.ebasetek.qa.gmail.tests.HomePageTest" tests="1" failures="0" timestamp="14 Oct 2015 17:37:22 GMT" time="38.454" errors="0">
+  <testcase name="verifyHomePage" time="0.966" classname="com.ebasetek.qa.gmail.tests.HomePageTest"/>
+</testsuite>

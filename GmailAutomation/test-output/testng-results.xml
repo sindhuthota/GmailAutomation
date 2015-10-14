@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38454" started-at="2015-10-14T10:36:44Z" finished-at="2015-10-14T10:37:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38454" started-at="2015-10-14T10:36:44Z" finished-at="2015-10-14T10:37:22Z">
+      <class name="com.ebasetek.qa.gmail.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="37087" started-at="2015-10-14T10:36:44Z" finished-at="2015-10-14T10:37:21Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyHomePage()" name="verifyHomePage" duration-ms="966" started-at="2015-10-14T10:37:21Z" finished-at="2015-10-14T10:37:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="393" started-at="2015-10-14T10:37:22Z" finished-at="2015-10-14T10:37:22Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
